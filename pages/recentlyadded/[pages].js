@@ -24,7 +24,7 @@ const Recently = () => {
   <Layout>
       <Container
         Data={data.results}
-        heading={"Recently Added"}
+        heading={"Adicionado Recentemente"}
         page={[pages]}
         Icon={Discover[0].icon}
       />

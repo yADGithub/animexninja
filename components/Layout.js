@@ -1,6 +1,6 @@
 import Head from "next/head"
 
-const Layout = ({ children,title="Animex" }) => {
+const Layout = ({ children,title="Stardreams Anime" }) => {
   return (
     <div className="w-full justify-center items-center min-h-screen lg:h-full lg:w-10/12">
       <Head>

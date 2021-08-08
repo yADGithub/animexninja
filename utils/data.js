@@ -8,7 +8,7 @@ import {
 export const Discover = [
   {
     index: 1,
-    name: "Recently Added",
+    name: "Adicionado Recentemente",
     link: "/recentlyadded/1",
     icon: AiFillCalendar,
   },

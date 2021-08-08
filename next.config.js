@@ -18,7 +18,10 @@ module.exports = withPWA({
     return config;
   },
   images: {
-    domains: ["gogocdn.net"],
+    domains: [
+      "gogocdn.net",
+      "imgur.com"
+    ],
   },
   env: {
     key: process.env.COUNT_API_KEY,

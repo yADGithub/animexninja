@@ -12,7 +12,7 @@ export default function Home() {
   }, []);
   return (
     <Layout>
-      <Container Popular={data} heading={"Recently Added"} Icon={Discover[1].icon} />
+      <Container Popular={data} heading={"Adicionado Recentemente"} Icon={Discover[1].icon} />
     </Layout>
   );
 }

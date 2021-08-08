@@ -78,7 +78,7 @@ const Card = ({ title, id, heading, image, episodenumber }) => {
           loading="lazy"
           alt={title}
         />
-        {heading == "Recently Added" ? (
+        {heading == "Adicionado Recentemente" ? (
           <span className="absolute left-0 top-0 p-2 ">
             <AiFillCalendar size={15} className={"text-blue-500"} />
           </span>

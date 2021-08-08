@@ -33,8 +33,8 @@ const Sidebar = ({ visit }) => {
                 height={40}
                 src={
                   theme.theme == "dark"
-                    ? "/animexlogodarksidebar.svg"
-                    : "/animexlogolightsidebar.svg"
+                    ? "https://imgur.com/uA9hMjt.png"
+                    : "https://imgur.com/uA9hMjt.png"
                 }
               />
             </div>
